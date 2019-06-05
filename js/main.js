@@ -1,5 +1,6 @@
 Cumprimento()
 
 function Cumprimento() {
-    alert("Olá");
+    var nome = prompt("Digite seu nome");
+    alert("Olá " + nome);
 }
